@@ -1,4 +1,4 @@
-import crel from "crel"
+import {crel} from "crel"
 import {Plugin} from "prosemirror-state"
 
 import {renderGrouped} from "./menu"
